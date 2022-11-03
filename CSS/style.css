@@ -19,6 +19,7 @@ body{
 }
 .tela{
   margin: 0.105vh;
+  color:#fff;
 }
 .telas{
   display: inline-block;
